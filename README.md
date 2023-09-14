@@ -13,3 +13,5 @@
 选择浏览器类型  
 等待一会，浏览器打开，并在控制台输出所有同步版本后，选择同步版本  
 再等一会，根据提示获取导出的书签文件  
+# 视频教程
+[【自己写脚本实现夸克书签导出】](https://www.bilibili.com/video/BV1K8411q7VE/?share_source=copy_web&vd_source=aa5817451519bd3cd28a08a62cec5830)
