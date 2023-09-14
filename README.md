@@ -1,6 +1,6 @@
 # quark_bookmarks
 这是一个通过夸克浏览器书签同步功能批量获取书签的脚本，解救被夸克浏览器拿捏的友友们ヽ(￣▽￣)ﾉ
-#下载
+# 下载
 [win64系统可以使用这个](https://github.com/wlWxh/quark_bookmarks/releases/tag/v1.0.0)
 # 使用教程
 这个脚本是通过自动化浏览器测试的形式实现的，需要安装指定浏览器，目前支持Chrome、Edge、Firefox、PhantomJS、Safari这五款浏览器，有需要的朋友可以下载源码自行配置驱动器。使用过程分为手机操作部分和电脑操作部分，主要利用夸克的书签同步功能实现批量导出。
